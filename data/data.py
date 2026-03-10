@@ -1,11 +1,11 @@
 import pandas as pd
 
 files = [
-    "run_normal_1.txt",
-    "run_normal_2.txt",
-    "run_normal_3.txt",
-    "run_anomaly_mem_3.txt",
-    "run_anomaly_io.txt"
+    "runnormal1.txt",
+    "runnormal2.txt",
+    "runnormal3.txt",
+    "runanomalymem.txt",
+    "runanomalyio.txt"
 ]
 
 dfs = []
