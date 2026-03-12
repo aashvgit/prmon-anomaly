@@ -68,3 +68,6 @@ The IQR method worked well for detecting large spike in memory usage. it is simp
 AI tools were used for runtime errors during the setup process. The experiment design, dataset generation, analysis, and interpretation was not done with the help of ai
 
 
+Possible Future Improvements:
+
+some possible extensions of this may work that could include adding an alert system to notify when abnormal resource usage is detected and adding the monitoring system to include additional metrics such as CPU utilization and I/O activity.
